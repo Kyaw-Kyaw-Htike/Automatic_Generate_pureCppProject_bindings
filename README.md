@@ -1,0 +1,2 @@
+# Automatic_Generate_pureCppProject_bindings
+Automatic_Generate_pureCppProject_bindings
